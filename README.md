@@ -8,7 +8,11 @@
 npm run buildC
 ```
 
-# 启动服务
+# 启用静态资源服务
+
+在 VSCode 中启用 GO Live 服务
+
+# 启动项目服务
 
 ```
 npm run serve
